@@ -1,0 +1,14 @@
+p {
+    font-size: 200%;
+    color: dimgray;
+  }
+  body {
+    background-color: lightblue;
+  }
+  p {
+    font-family: monospace;
+  }
+  h1 {
+    text-align: center;
+  }
+  
